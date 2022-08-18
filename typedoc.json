@@ -1,0 +1,9 @@
+{
+  "inputFiles": [
+    "./lib/typescript"
+  ],
+  "mode": "file",
+  "out": "docs/api",
+  "includeDeclarations": true,
+  "excludeExternals": true
+}
