@@ -42,9 +42,6 @@
   "repository": "https://github.com/AgoraIO-Community/react-native-agora",
   "author": "Sanar",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AgoraIO-Community/react-native-agora/issues"
-  },
   "homepage": "https://github.com/AgoraIO-Community/react-native-agora#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
